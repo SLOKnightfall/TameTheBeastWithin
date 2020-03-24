@@ -1,0 +1,37 @@
+## Interface: 80300
+## Title: TameTheBeastWithin
+## Version: (v1.0.0.0)
+## X-Version-Status: Release
+## Notes: Automatically puts you into Human form outside of combat
+## SavedVariables: TameTheBeastWithinDB
+## SavedVariablesPerCharacter: 
+
+#@no-lib-strip@
+
+#@end-no-lib-strip@
+#Libraries
+Libs\LibStub-1.0\LibStub.lua
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+Libs\AceHook-3.0\AceHook-3.0.xml
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+
+#Localization
+Localization\localization-enUS.lua
+Localization\localization-deDE.lua
+Localization\localization-esES.lua
+Localization\localization-esMX.lua
+Localization\localization-frFR.lua
+Localization\localization-itIT.lua
+Localization\localization-koKr.lua
+Localization\localization-ptBR.lua
+Localization\localization-ruRU.lua
+Localization\localization-zhCN.lua
+Localization\localization-zhTW.lua
+
+TameTheBeastWithin.lua
