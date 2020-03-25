@@ -8,7 +8,7 @@
 
 
 local _G = _G
-if not select(2, _G.UnitRace("player")) == "Worgen" then return end
+if not (select(2, _G.UnitRace("player")) == "Worgen") then return end
 
 TameTheBeastWithin = LibStub("AceAddon-3.0"):NewAddon("TameTheBeastWithin","AceEvent-3.0", "AceHook-3.0")
 local L = LibStub("AceLocale-3.0"):GetLocale("TameTheBeastWithin", silent)
