@@ -1,7 +1,7 @@
-## Interface: 90005
+## Interface: 100005
 ## Title: TameTheBeastWithin (@project-version@)
 ## Version:  @project-version@
-## Game Version: 9.0.5
+## Game Version: 10.0.5
 ## X-Version-Status: Release
 ## Notes: Automatically puts you into Human form outside of combat
 ## SavedVariables: TameTheBeastWithinDB
